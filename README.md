@@ -1,5 +1,6 @@
 pbjson
 ======
+**Fork from [yinqiwen/pbjson](https://github.com/yinqiwen/pbjson) and added CMake.**
 
 A fast C++ serialization and de-serialization of Google's protobuf Messages into/from JSON format, which built on [rapidjson](https://code.google.com/p/rapidjson/), inspired from [json2pb](https://github.com/shramov/json2pb).
 
